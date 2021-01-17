@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-...I will do this later
+...I will update this later
 
 <!--
 **LilyxMeng/LilyxMeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
