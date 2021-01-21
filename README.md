@@ -1,6 +1,6 @@
 ### Hi, I'm Lily! 👋
 
-<p>I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Ontario. I'm planning on studying computer science in university 👩‍💻 I'm currently learning web development and creating some side projects. My most recent one I'm working on is <a href="https://lilyxmeng.github.io/itzketches/">ITZKETCHES</a>. For more information, check out the repository <a href="https://github.com/LilyxMeng/itzketches">here</a>! I'm also  planning on creating a portfolio website which doesn't have much information on it right now.</p>
+<p>I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Ontario. I'm planning on studying computer science in university 👩‍💻 I'm currently learning web development and creating some side projects. My most recent one I'm working on is <a href="https://lilyxmeng.github.io/itzketches/">ITZKETCHES</a> (btw, the contact page doesn't work). For more information, check out the repository <a href="https://github.com/LilyxMeng/itzketches">here</a>! I'm also  planning on creating a portfolio website which doesn't have much information on it right now.</p>
 
 <p>I'm looking to actively participate in hackathons! I'ld love to collaborate on projects, learn more about computer science in general and expand my network!</p>
 
