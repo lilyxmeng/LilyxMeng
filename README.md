@@ -4,7 +4,7 @@
 
 <p>I'm looking to actively participate in hackathons! I'ld love to collaborate on projects, learn more about computer science in general and expand my network!</p>
 
-<p>Programming Languages I am Familiar With:</p>
+<p>Programming Languages I'm Familiar With:</p>
 <ul>
   <li>Java</li>
   <li>Python</li>
