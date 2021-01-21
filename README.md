@@ -15,7 +15,7 @@
   
   <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lily-meng-5086231b6/">here</a>. I look forward to connecting with you!<p>
   
-[![Lily's github stats](https://github-readme-stats.vercel.app/api?username=LilyxMeng)](https://github.com/anuraghazra/github-readme-stats)
+![Lily's github stats](https://github-readme-stats.vercel.app/api?username=LilyxMeng)
  
 
 <!--
