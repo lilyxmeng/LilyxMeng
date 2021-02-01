@@ -4,7 +4,7 @@
 
 <p>I'm looking to actively participate in hackathons! I'ld love to collaborate on projects, learn more about computer science in general and expand my network!</p>
 
-## My skills
+<h3>My skills</h3>
 
 <p>Programming Languages I am Familiar With:</p>
 <ul>
