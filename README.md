@@ -1,10 +1,10 @@
-### Hi, I'm Lily! 👋
+<h2>Hi, I'm Lily! 👋</h2>
 
 <p>I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm planning on studying computer science in university 👩‍💻 I'm currently learning web development and creating some side projects. The most recent one I'm working on is <a href="https://lilyxmeng.github.io/itzketches/">ITZKETCHES</a> (btw, the contact page doesn't work I still have to work on validating and getting input from it 🥲). For more information, check out the repository <a href="https://github.com/LilyxMeng/itzketches">here</a>! I'm also planning on creating a portfolio website which doesn't have much information on it right now.</p>
 
 <p>I'm looking to actively participate in hackathons! I'ld love to collaborate on projects, learn more about computer science in general and expand my network!</p>
 
-<h3>My skills</h3>
+<h2>My skills</h2>
 
 <p>Programming Languages I am Familiar With:</p>
 <ul>
@@ -20,7 +20,8 @@
   <li>Bootstrap</li>
   <li>And learning jQuery!</li>
  </ul>
-  
+ 
+ <h2>Additional Information</h2>
   <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lily-meng-5086231b6/">here</a>. I look forward to connecting with you!<p>
   
 ![Lily's github stats](https://github-readme-stats.vercel.app/api?username=LilyxMeng)
