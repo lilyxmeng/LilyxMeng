@@ -4,6 +4,8 @@
 
 <p>I'm looking to actively participate in hackathons! I'ld love to collaborate on projects, learn more about computer science in general and expand my network!</p>
 
+## My skills
+
 <p>Programming Languages I am Familiar With:</p>
 <ul>
   <li>Java</li>
@@ -11,6 +13,12 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>And learning Javascript!</li>
+ </ul>
+ 
+ <p>Programming Tools I am Familiar With:</p>
+<ul>
+  <li>Bootstrap</li>
+  <li>And learning jQuery!</li>
  </ul>
   
   <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lily-meng-5086231b6/">here</a>. I look forward to connecting with you!<p>
