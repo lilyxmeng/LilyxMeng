@@ -25,6 +25,9 @@
   <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lily-meng-5086231b6/">here</a>. I look forward to connecting with you!<p>
   
 ![Lily's github stats](https://github-readme-stats.vercel.app/api?username=LilyxMeng)
+
+<p>Also putting this here because... mood sometimes you know?</p>
+<img src="https://undo.io/media/uploads/files/Frustrated_programmer.gif">
  
 
 <!--
