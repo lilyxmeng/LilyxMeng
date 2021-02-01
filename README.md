@@ -26,7 +26,7 @@
   
 ![Lily's github stats](https://github-readme-stats.vercel.app/api?username=LilyxMeng)
 
-<p>Also putting this here because... mood sometimes you know?</p>
+<p>Also putting this here because... mood sometimes, you know?</p>
 <img src="https://undo.io/media/uploads/files/Frustrated_programmer.gif">
  
 
