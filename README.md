@@ -17,6 +17,7 @@
  
  <p>Programming Tools I am Familiar With:</p>
 <ul>
+  <li>Git + Github<li>
   <li>Bootstrap</li>
   <li>And learning jQuery!</li>
  </ul>
