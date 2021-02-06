@@ -6,7 +6,7 @@
 
 <h2>My Skills</h2>
 
-<p>Programming Languages I am Familiar With:</p>
+<p>Languages I am Familiar With:</p>
 <ul>
   <li>Java</li>
   <li>Python</li>
@@ -15,7 +15,7 @@
   <li>And learning Javascript!</li>
  </ul>
  
- <p>Programming Tools I am Familiar With:</p>
+ <p>Tools I am Familiar With:</p>
 <ul>
   <li>Git + Github</li>
   <li>Bootstrap</li>
