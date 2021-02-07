@@ -4,6 +4,8 @@
 
 <p>I'm looking to actively participate in hackathons! I'ld love to collaborate on projects, learn more about computer science in general and expand my network!</p>
 
+
+<!--
 <h2>My Skills</h2>
 
 <p>Languages I am Familiar With:</p>
@@ -21,9 +23,10 @@
   <li>Bootstrap</li>
   <li>And learning jQuery!</li>
  </ul>
+ -->
  
  <h2>Additional Information</h2>
-  <p>I'm interested in internships for Summer 2021 to gain some work experience in the industry as well as improve my skillset.</p>
+  <!-- <p>I'm interested in internships for Summer 2021 to gain some work experience in the industry as well as improve my skillset.</p> -->
   <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lily-meng-5086231b6/">here</a>. I look forward to connecting with you!<p>
   
 ![Lily's github stats](https://github-readme-stats.vercel.app/api?username=LilyxMeng)
