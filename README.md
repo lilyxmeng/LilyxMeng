@@ -1,8 +1,10 @@
 <h2>Hi, I'm Lily! 👋</h2>
 
-<p>I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm planning on studying computer science in university 👩‍💻 I'm currently learning web development and creating some side projects. The most recent one I'm working on is <a href="https://lilyxmeng.github.io/itzketches/">ITZKETCHES</a> (btw, the contact page doesn't work I still have to work on validating and getting input from it 🥲). For more information, check out the repository <a href="https://github.com/LilyxMeng/itzketches">here</a>!</p>
+<p>I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm planning on studying computer science in university. I'm a self taught front-end web developer, interested in learning backend and other skills as well! Feel free to reach out, I'ld love to meet new people!
+  
+  <!--One of my hobbies are creating side projects, the most recent one I'm working on is <a href="https://lilyxmeng.github.io/itzketches/">ITZKETCHES</a> (btw, the contact page doesn't work I still have to work on validating and getting input from it 🥲). For more information, check out the repository <a href="https://github.com/LilyxMeng/itzketches">here</a>!</p> -->
 
-<p>I'm looking to actively participate in hackathons! I'ld love to collaborate on projects, learn more about computer science in general and expand my network!</p>
+<!-- <p>I'm looking to actively participate in hackathons! I'ld love to collaborate on projects, learn more about computer science in general and expand my network!</p> -->
 
 
 <!--
@@ -27,7 +29,7 @@
  
  <h2>Additional Information</h2>
   <!-- <p>I'm interested in internships for Summer 2021 to gain some work experience in the industry as well as improve my skillset.</p> -->
-  <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lily-meng-5086231b6/">here</a>. I look forward to connecting with you!<p>
+  <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lily-meng-5086231b6/">here</a> as well as other platforms I use <a href="https://linktr.ee/LilyxMeng">here</a>. I look forward to connecting with you! 😊</p>
   
 ![Lily's github stats](https://github-readme-stats.vercel.app/api?username=LilyxMeng)
 
