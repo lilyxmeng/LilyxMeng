@@ -1,6 +1,8 @@
 <h2>Hi, I'm Lily! 👋</h2>
 
-<p>I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm interested in learning more about frontend web development, backend web development, mobile app devlopment, game development, and more! 
+<p>I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm a self taught front-end web developer interested in learning more about computer science.
+  
+<!--   interested in learning more about frontend web development, backend web development, mobile app devlopment, game development, and more!  -->
   
   <!--One of my hobbies are creating side projects, the most recent one I'm working on is <a href="https://lilyxmeng.github.io/itzketches/">ITZKETCHES</a> (btw, the contact page doesn't work I still have to work on validating and getting input from it 🥲). For more information, check out the repository <a href="https://github.com/LilyxMeng/itzketches">here</a>!</p> -->
 
