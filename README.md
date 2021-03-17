@@ -1,6 +1,6 @@
 <h2>Hi, I'm Lily! 👋</h2>
 
-<p>I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm a self taught web developer interested in coding and computer science!
+<p>I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm interested in coding and computer science!
 
 <h2>Additional Information</h2>
 <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lilyxmeng">here</a> as well as other platforms I use <a href="https://linktr.ee/LilyxMeng">here</a>. Feel free to connect with me!</p>
