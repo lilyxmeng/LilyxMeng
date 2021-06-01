@@ -1,6 +1,6 @@
 <h2>Hi, I'm Lily! 👋</h2>
 
-I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm interested in coding and computer science!
+I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm interested in pretty much anything coding and computer science related.
   
 I do a lot of web development, frontend (HTML, CSS, JS) and backend (Python, Flask). Also know a few other languages (Java, C, C++) but don't ask me to 
 do anything with that. Currently looking at game development and machine learning :D
