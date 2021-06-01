@@ -1,6 +1,9 @@
 <h2>Hi, I'm Lily! 👋</h2>
 
-<p>I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm interested in coding and computer science!
+I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm interested in coding and computer science!
+  
+I do a lot of web development, frontend (HTML, CSS, JS) and backend (Python, Flask). Also know a few other languages (Java, C, C++) but don't ask me to 
+do anything with that. Currently looking at game development and machine learning :D
 
 <h2>Additional Information</h2>
 <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lilyxmeng">here</a> as well as other platforms I use <a href="https://linktr.ee/LilyxMeng">here</a>. Feel free to connect with me!</p>
