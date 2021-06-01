@@ -6,7 +6,7 @@ I do a lot of web development, frontend (HTML, CSS, JS) and backend (Python, Fla
 do anything with that. Currently looking at game development and machine learning :D
 
 <h2>Additional Information</h2>
-<p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lilyxmeng">here</a> as well as other platforms I use <a href="https://linktr.ee/LilyxMeng">here</a>. Feel free to connect with me!</p>
+<p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lilyxmeng">here</a> and other platforms I use <a href="https://linktr.ee/LilyxMeng">here</a>. Feel free to connect with me!</p>
   
 ![Lily's github stats](https://github-readme-stats.vercel.app/api?username=LilyxMeng)
 
