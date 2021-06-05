@@ -2,7 +2,7 @@
 
 I'm an 11th grade student attending high school at Harbord Collegiate Institute in Toronto, Canada. I'm interested in pretty much anything coding and computer science related.
   
-I do a lot of web development, frontend (HTML, CSS, JS) and backend (Python, Flask). Currently looking at game development and machine learning :D
+I do a lot of web development, frontend (HTML, CSS, JS) and backend (Python, Flask). Currently exploring game development and machine learning.
 
 <h2>Additional Information</h2>
 <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lilyxmeng">here</a> and other platforms I use <a href="https://linktr.ee/LilyxMeng">here</a>. Feel free to connect with me!</p>
