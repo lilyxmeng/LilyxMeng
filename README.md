@@ -2,7 +2,7 @@
 
 I'm a 12th grade student attending high school in Toronto, Canada. I'm interested in pretty much anything coding and computer science related.
   
-I do a lot of web development, frontend (HTML, CSS, JS) and backend (Python, Flask). I try a bit of competative programming with Java (although I kinda suck and don't like contests -> <a href="https://dmoj.ca/user/LilyMeng">DMOJ</a>). I'm currently exploring game development and machine learning in my free time :P
+I do a lot of web development, frontend (HTML, CSS, JS) and backend (Python, Flask). This summer I'm trying a bit of competative programming with Java (although I kinda suck and don't like contests -> <a href="https://dmoj.ca/user/LilyMeng">DMOJ</a>). I'm also currently exploring game development and machine learning in my free time :P
 
 <h2>Additional Information</h2>
 <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lilyxmeng">here</a> and other platforms I use <a href="https://linktr.ee/LilyxMeng">here</a>. Feel free to connect with me!</p>
