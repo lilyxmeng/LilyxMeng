@@ -1,6 +1,6 @@
 <h2>Hi, I'm Lily! 👋</h2>
 
-I'm an 11th grade student attending high school in Toronto, Canada. I'm interested in pretty much anything coding and computer science related.
+I'm a 12th grade student attending high school in Toronto, Canada. I'm interested in pretty much anything coding and computer science related.
   
 I do a lot of web development, frontend (HTML, CSS, JS) and backend (Python, Flask). I try a bit of competative programming with Java (although I kinda suck and don't like contests -> <a href="https://dmoj.ca/user/LilyMeng">DMOJ</a>). I'm currently exploring game development and machine learning in my free time :P
 
