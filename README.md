@@ -6,7 +6,7 @@ I do web development, frontend (HTML, CSS, JS) and backend (Python, Flask). I tr
 
 <h2>Additional Information</h2>
 <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lilyxmeng">here</a> and other platforms I use <a href="https://linktr.ee/LilyxMeng">here</a>. Feel free to connect with me!</p>
-<p>I'm also working on getting a personal website set up soon ✨ I'm looking forward to sharing my experiences!</p>
+<p>I'm also working on getting a personal website set up soon ✨ I look forward to sharing my experiences!</p>
 
 ![Lily's github stats](https://github-readme-stats.vercel.app/api?username=LilyxMeng)
 
