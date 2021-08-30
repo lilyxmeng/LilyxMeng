@@ -2,7 +2,7 @@
 
 I'm a 12th grade student attending high school in Toronto, Canada. I'm interested in pretty much anything coding and computer science related.
   
-I do web development, frontend (HTML, CSS, JS) and backend (Python, Flask). I try a bit of competative programming with Java/Python/C++ (idrk I kinda suck -> <a href="https://dmoj.ca/user/LilyMeng">DMOJ</a>). I attend hackathons for fun whenever and currently learning machine learning, starting with <a href="https://www.kaggle.com/thirty-days-of-ml">Kaggle's 30 days of ML</a>.
+I do web development, frontend (HTML, CSS, JS) and backend (Python, Flask). I try a bit of competative programming with Java/Python/C++ (idrk I kinda suck -> <a href="https://dmoj.ca/user/LilyMeng">DMOJ</a>). I attend hackathons for fun whenever and currently learning machine learning.
 
 <h2>Additional Information</h2>
 <p>You can find my LinkedIn <a href="https://www.linkedin.com/in/lilyxmeng">here</a> and check out my website <a href="https://lilyxmeng.github.io/">here</a>. Feel free to connect with me!</p>
