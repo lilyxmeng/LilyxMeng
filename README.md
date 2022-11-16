@@ -1,6 +1,6 @@
 <h2>Hi, I'm Lily! 👋</h2>
 
-I’m an incoming computer science student at the University of Toronto St. George campus. I’m interested in pursuing studies in artifical intelligence and the development of advanced technology through research and data analysis.
+I’m a student at the University of Toronto majoring in computer science at the St. George campus. I’m interested in pursuing studies in artifical intelligence.
 
 <h2>Additional Information</h2>
 <p>You can find my LinkedIn at <a href="https://www.linkedin.com/in/lilyxmeng">https://www.linkedin.com/in/lilyxmeng</a> and check out my website at <a href="https://lilyxmeng.github.io/">https://lilyxmeng.github.io</a>. Feel free to connect with me!</p>
