@@ -3,7 +3,7 @@
 I’m a student at the University of Toronto majoring in computer science.
 
 <!-- <h2>Additional Information</h2> -->
-<p>You can find my LinkedIn at <a href="https://www.linkedin.com/in/lilyxmeng">https://www.linkedin.com/in/lilyxmeng</a>.
+<p><a href="https://www.linkedin.com/in/lilyxmeng">https://www.linkedin.com/in/lilyxmeng</a>
 
 <!-- ![Lily's github stats](https://github-readme-stats.vercel.app/api?username=LilyxMeng) -->
 
